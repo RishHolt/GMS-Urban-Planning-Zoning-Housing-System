@@ -4,8 +4,6 @@ A government service management system for **Urban Planning, Zoning & Housing**.
 
 > **Project status:** This is an **unfinished capstone project** and is no longer in active development. Some features may be incomplete.
 
-**Live site:** [urbanplanning.goserveph.com](https://urbanplanning.goserveph.com/)
-
 ## Overview
 
 The system is a multi-department platform. Each department runs its own module with its own database:
